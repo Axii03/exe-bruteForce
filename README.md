@@ -24,6 +24,10 @@ The tool can be used by simply entering **python3 brute.py**
 
 **The word List and the path of the executable file which you are using must also be changed accordingly as mentioned inside the brute.py code**
 
+## How this Tool works
+
+This tool makes use of the error message that is displayed when the wrong code is entered.For example in the test applications that I have created it displays the error as **Access Denied**. The program will iterate multiple times and wil get fed codes and words from the specified wordlist until that error message is not in the output.In the scenario that I have created it will feed the rockyou word list to the application until the "Access Denied" message is not in the output message.
+
 ## Testing
 
 testBrute.c source code and testBrute exe application are included here to test the functional working of this tool.
