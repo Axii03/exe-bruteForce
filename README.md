@@ -24,6 +24,6 @@ The tool can be used by simply entering **python3 brute.py**
 
 **The word List and the path of the executable file which you are using must also be changed accordingly as mentioned inside the brute.py code**
 
-##Testing
+## Testing
 
 testBrute.c and testBrute exe functions are included here to test the working of this tool.
