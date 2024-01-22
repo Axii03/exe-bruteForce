@@ -11,7 +11,7 @@ Below is an example image of how one such application behaves:
 
 Below is an example of entering correct code to that application:
 
-![](Screenshots/ss2.png)
+![](Screenshots/ss2.PNG)
 
 
 ## How to Use the tool
