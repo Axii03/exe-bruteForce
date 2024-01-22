@@ -23,3 +23,7 @@ The tool can be used by simply entering **python3 brute.py**
 **Note:For this to properly work you should check the error output message in your executable file and   accordingly change it to reflect the message being displayed in your own executable application which you are trying to crack**
 
 **The word List and the path of the executable file which you are using must also be changed accordingly as mentioned inside the brute.py code**
+
+##Testing
+
+testBrute.c and testBrute exe functions are included here to test the working of this tool.
