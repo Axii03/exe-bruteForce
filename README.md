@@ -7,7 +7,7 @@ The main use case of this tool is in cracking passwords inside an executable app
 
 Below is an example image of how one such application behaves:
 
-![](Screenshots/ss1.png)
+![](Screenshots/ss1.PNG)
 
 Below is an example of entering correct code to that application:
 
@@ -18,7 +18,7 @@ Below is an example of entering correct code to that application:
 
 The tool can be used by simply entering **python3 brute.py** 
 
-![](Screenshots/ss3.png)
+![](Screenshots/ss3.PNG)
 
 **Note:For this to properly work you should check the error output message in your executable file and   accordingly change it to reflect the message being displayed in your own executable application which you are trying to crack**
 
