@@ -26,4 +26,4 @@ The tool can be used by simply entering **python3 brute.py**
 
 ## Testing
 
-testBrute.c and testBrute exe functions are included here to test the working of this tool.
+testBrute.c source code and testBrute exe application are included here to test the functional working of this tool.
